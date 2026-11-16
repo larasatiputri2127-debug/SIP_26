@@ -5,16 +5,18 @@ kuliah Sistem Informasi Perencanaan (SIP) 2026.
 
 ##Lihat Peta
 [Buka WebGIS](https://larasatiputri2127-debug.github.io/SIP_26/)
+
 ##Isi Peta 
 - Lokasi kmapus PTN di Surabaya (ITS, UNAIR, UIN, UNESA, dan Lainnya)
 - Foto setiap kampus
 - Analisis Aksesibilitas Kampus
+
 ##Dibuat dengan 
 - QGIS
 - qgis2web (Open Layers)
 - GitHub Pages
 
-  Pembuat
+Pembuat
   Nama: Laras
   NIM: 019
   Program Studi: PWK
